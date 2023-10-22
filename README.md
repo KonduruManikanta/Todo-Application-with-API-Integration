@@ -2,7 +2,6 @@
 
 This is a simple Todo application built using React.js that allows users to add, edit, and delete tasks. It also provides the functionality to filter tasks by completion status.
 
-![Todo App Screenshot](screenshot.png)
 
 ## Features
 
